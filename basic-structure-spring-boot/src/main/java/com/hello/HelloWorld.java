@@ -1,4 +1,4 @@
-package com.alarm;
+package com.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
